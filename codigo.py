@@ -1,5 +1,4 @@
 
-c=34
-b=14
-suma=a+c
-print(suma)
+c="Hola"
+b="Como estas"
+print(c+" "+b)
