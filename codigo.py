@@ -1,5 +1,5 @@
-a=7
-a=34
+
+c=34
 b=2
-suma=a+b
+suma=a+c
 print(suma)
